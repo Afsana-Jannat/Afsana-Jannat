@@ -1,7 +1,6 @@
 # I'm Afsana Jannat
 ## Web Devlopment
-![MasterHead](https://www.creativeitinstitute.com/images/course/course_1663052056.jpg).]
-<img align="right" alt="Coding" width="400" src="">
+![MasterHead](https://www.creativeitinstitute.com/images/course/course_1663052056.jpg)]
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
