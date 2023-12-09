@@ -4,9 +4,9 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate mern developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: 01890545497</h3>
 <p align="left">
 </p>
 
