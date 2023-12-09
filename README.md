@@ -1,6 +1,8 @@
-# I'm Afsana Jannat
-## I'm a Web developer
+
+
 ![MasterHead](https://www.creativeitinstitute.com/images/course/course_1663052056.jpg)
+
+# I'm Afsana Jannat
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
