@@ -4,7 +4,7 @@
 
 # I'm Afsana Jannat
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+Hello there! I'm Afsana Jannat, and I hail from the beautiful city of Barisal. Currently, I'm immersed in the fascinating world of software engineering at Daffodil International University. I strongly believe in the power of coding to create, innovate, and solve real-world problems. My motto: "Coding with passion, shaping the future." I'm dedicated to crafting innovative solutions and embracing the endless possibilities that coding offers. Let's embark on this exciting journey together!
 
 <h3 align="center">A passionate mern developer from Bangladesh</h3>
 
