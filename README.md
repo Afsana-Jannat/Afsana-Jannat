@@ -20,11 +20,11 @@ Skills:  HTML / CSS / Tailwind / REACT / JS / Mongodb
 
 Some Of my project Live Link:
 
-   https://dream-jobs-by-jannat.netlify.app/
+   https://medcarehub.vercel.app/
 
-   https://lustrous-jalebi-f917fe.netlify.app/
+   https://go-deliver-2408f.web.app/
 
-   https://hostel-management-d56a9.web.app/
+   https://rise-at-seven.netlify.app/
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Next.js 
