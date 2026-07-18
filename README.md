@@ -9,20 +9,20 @@ Full Stack Developer
 </h3>
 
 <p align="center">
-Passionate about building modern, scalable, and user-friendly web applications.
+Passionate about building clean, scalable and user-friendly web applications.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6">
-<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
+<a href="https://afsanajannat-portfolio.netlify.app/" target="_blank">
+Portfolio
 </a>
-&nbsp;&nbsp;
-<a href="afsanajannat205@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
+•
+<a href="YOUR_LINKEDIN" target="_blank">
+LinkedIn
 </a>
-&nbsp;&nbsp;
-<a href="https://afsanajannat-portfolio.netlify.app/">
-<img src="https://skillicons.dev/icons?i=vercel" width="42"/>
+•
+<a href="mailto:YOUR_EMAIL">
+Email
 </a>
 </p>
 
@@ -31,79 +31,74 @@ Passionate about building modern, scalable, and user-friendly web applications.
 # 💫 About Me
 
 - 💻 Full Stack Developer from **Bangladesh**
+- 🔭 Currently working on **Full Stack Web Applications**
 - 🌱 Currently learning **Next.js, Prisma ORM, PostgreSQL & TypeScript**
-- 🚀 Passionate about building clean, scalable, and responsive web applications
-- 🤝 Interested in collaborating on open source and full stack projects
-- 💼 Open to Full Stack Developer opportunities
+- 🚀 Passionate about building scalable and responsive web applications
+- 🤝 Looking to collaborate on **Open Source & Full Stack Projects**
 - 💬 Ask me about **React, JavaScript, Next.js, Node.js, Express.js, MongoDB & PostgreSQL**
-- 📫 Reach me at **YOUR_EMAIL**
+- 📍 Location: **Dhaka, Bangladesh**
+- 📫 Email: **YOUR_EMAIL**
+- 💼 Open to **Full Stack Developer Opportunities**
 
 ---
 
 # 💻 Technology Stack
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite" />
 </p>
 
-### ⚙️ Backend
+---
+
+## ⚙️ Backend
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+---
+
+## 🗄️ Database & ORM
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,prisma" />
+</p>
+
+---
+
+## 🔐 Authentication & API
+
+<p>
+<img src="https://skillicons.dev/icons?i=firebase" />
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
-### 🗄️ Database & ORM
+---
+
+## 🚀 Deployment & Hosting
 
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-
-### 🔐 Authentication
-
-<p>
-<img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-</p>
-
-### 🚀 Deployment & Hosting
-
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
 
-### 🛠️ Tools & Technologies
+---
+
+## 🛠️ Tools & Technologies
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma" />
 </p>
 
-### 📚 Currently Learning
+---
+
+## 📚 Currently Learning
 
 <p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=nextjs,postgresql,prisma,ts" />
 </p>
 
 ---
@@ -112,29 +107,57 @@ Passionate about building modern, scalable, and user-friendly web applications.
 
 ## 🚴 GearUp
 
-Sports & Outdoor Gear Rental Platform
+**Sports & Outdoor Gear Rental Platform**
 
-**Tech Stack:** React • Node.js • Express.js • PostgreSQL • Prisma ORM
+**Highlights**
 
-🔗 **Live Demo** | **Client Repository** | **Server Repository**
+- Role-based Authentication
+- Secure Online Payment
+- Booking Management
+- Provider Dashboard
+- Admin Dashboard
+
+**Tech Stack**
+
+React • Node.js • Express.js • PostgreSQL • Prisma ORM
+
+🔗 **Live Demo** | **Client** | **Server**
 
 ---
 
 ## 📦 GoDeliver
 
-Parcel Delivery Management System
+**Parcel Delivery Management System**
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB
+**Highlights**
 
-🔗 **Live Demo** | **Client Repository** | **Server Repository**
+- Parcel Booking
+- OTP Verification
+- Rider Management
+- Parcel Tracking
+
+**Tech Stack**
+
+React • Node.js • Express.js • MongoDB
+
+🔗 **Live Demo** | **Client** | **Server**
 
 ---
 
 ## 💊 MedCareHub
 
-Online Medicine Ordering Platform
+**Medicine Ordering Platform**
 
-**Tech Stack:** React • Firebase • Express.js • MongoDB
+**Highlights**
+
+- Authentication
+- Shopping Cart
+- Stripe Payment
+- Responsive Design
+
+**Tech Stack**
+
+React • Firebase • Express.js • MongoDB
 
 🔗 **Live Demo** | **Repository**
 
@@ -142,9 +165,11 @@ Online Medicine Ordering Platform
 
 ## 🌐 Personal Portfolio
 
-Modern Developer Portfolio
+Modern portfolio showcasing my projects, technical skills and development journey.
 
-**Tech Stack:** React • Tailwind CSS • Framer Motion
+**Tech Stack**
+
+React • Tailwind CSS • Framer Motion
 
 🔗 **Live Demo** | **Repository**
 
@@ -154,15 +179,21 @@ Modern Developer Portfolio
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Afsana-Jannat&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Afsana-Jannat&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsana-Jannat&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsana-Jannat&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Afsana-Jannat&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Afsana-Jannat&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Afsana-Jannat&theme=github-dark&hide_border=true"/>
 
 </p>
 
@@ -172,12 +203,16 @@ Modern Developer Portfolio
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="afsanajannat205@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 
 </p>
@@ -186,8 +221,8 @@ Modern Developer Portfolio
 
 <div align="center">
 
-### Thanks for visiting my profile! ❤️
+### ⭐ Thanks for visiting my profile!
 
-*"Keep Learning. Keep Building. Keep Growing."*
+*"Keep Learning • Keep Building • Keep Growing"* 🚀
 
 </div>
