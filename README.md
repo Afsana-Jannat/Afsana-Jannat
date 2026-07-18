@@ -1,35 +1,43 @@
+![Full Stack Developer](https://i.ibb.co.com/Q7d5Fjzf/githubbanner.png)
+
+### Hi there 👋, I'm Afsana Jannat
+#### Full Stack Developer
 
 
-![MasterHead](https://chatgpt.com/backend-api/estuary/content?id=file_00000000914c81faab3dcfc776bc1b19&ts=495660&p=fs&cid=1&sig=efff2a8ffa882b5762650ff27c9aa4a409624154cb81481a9a616d21e804f4c3&v=0)
+Hi, I'm Afsana Jannat, a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
 
-# I'm Afsana Jannat
+I enjoy turning ideas into real-world solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, and TypeScript. I believe that writing clean code and continuously learning are key to becoming a better developer.
 
-Hello there! I'm Afsana Jannat, and I hail from the beautiful city of Barisal. Currently, I'm immersed in the fascinating world of software engineering at Daffodil International University. I strongly believe in the power of coding to create, innovate, and solve real-world problems. My motto: "Coding with passion, shaping the future." I'm dedicated to crafting innovative solutions and embracing the endless possibilities that coding offers. Let's embark on this exciting journey together!
+I'm always exploring new technologies, improving my skills, and looking for opportunities to build meaningful products while growing as a software engineer.
 
-<h3 align="center">A passionate mern developer from Bangladesh</h3>
+Skills: REACT / NEXT.JS / JAVASCRIPT / TYPESCRIPT / NODE.JS / EXPRESS.JS / MONGODB / POSTGRESQL / PRISMA ORM / TAILWIND CSS / HTML5 / CSS3 / GIT / GITHUB / POSTMAN
 
-<h3 align="left">Connect with me: 01890545497</h3>
-<p align="left">
-</p>
+- 🔭 I’m currently working on Building modern full stack web applications. 
+- 🌱 I’m currently learning Next.js, Prisma ORM, PostgreSQL, TypeScript, and System Design. 
+- 👯 I’m looking to collaborate on Open Source Projects, Full Stack Web Applications, and Innovative Web Solutions. 
+- 🤔 I’m looking for help with Backend Architecture, Performance Optimization, and Best Development Practices. 
+- 💬 Ask me about React, JavaScript, Next.js, Node.js, Web Development, or anything related to Full Stack Development. 
+- 📫 How to reach me: afsanajannat205@gmail.com 
+- ⚡ Fun fact: I believe every project is an opportunity to learn something new. 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Afsana-Jannat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afsana-jannat-8484343b6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afsanajannat-portfolio.netlify.app/)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/Afsana-Jannat)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/Afsana-Jannat)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Afsana-Jannat&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/Afsana-Jannat/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/Afsana-Jannat)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/Afsana-Jannat)  
 
 
-Skills:  HTML / CSS / Tailwind / REACT / JS / Mongodb
-
-Some Of my project Live Link:
-
-   https://medcarehub.vercel.app/
-
-   https://go-deliver-2408f.web.app/
-
-   https://rise-at-seven.netlify.app/
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Next.js 
-- 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Web devlopment 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Afsana-Jannat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Afsana-Jannat/)  
