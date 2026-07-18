@@ -17,11 +17,11 @@ Passionate about building clean, scalable and user-friendly web applications.
 Portfolio
 </a>
 •
-<a href="YOUR_LINKEDIN" target="_blank">
+<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6" target="_blank">
 LinkedIn
 </a>
 •
-<a href="mailto:YOUR_EMAIL">
+<a href="afsanajannat205@gmail.com">
 Email
 </a>
 </p>
@@ -203,16 +203,16 @@ React • Tailwind CSS • Framer Motion
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="afsanajannat205@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" />
+<a href="https://afsanajannat-portfolio.netlify.app/">
+<img src="https://skillicons.dev/icons?i=netlify" />
 </a>
 
 </p>
