@@ -1,28 +1,105 @@
-![Full Stack Developer](https://i.ibb.co.com/Q7d5Fjzf/githubbanner.png)
 
-### Hi there 👋, I'm Afsana Jannat
-#### Full Stack Developer
+<p align="center">
+  <img src="(https://i.ibb.co.com/Q7d5Fjzf/githubbanner.png)" alt="Afsana Jannat Banner" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Afsana Jannat</h1>
 
-Hi, I'm Afsana Jannat, a Full Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+<h3 align="center">
+Full Stack Developer | Passionate About Building Modern Web Applications
+</h3>
 
-I enjoy turning ideas into real-world solutions using technologies like React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, and TypeScript. I believe that writing clean code and continuously learning are key to becoming a better developer.
+<p align="center">
+I enjoy building clean, scalable, and user-friendly web applications while continuously learning modern technologies.
+</p>
 
-I'm always exploring new technologies, improving my skills, and looking for opportunities to build meaningful products while growing as a software engineer.
+<p align="center">
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+&nbsp;
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+&nbsp;
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+</p>
 
-Skills: REACT / NEXT.JS / JAVASCRIPT / TYPESCRIPT / NODE.JS / EXPRESS.JS / MONGODB / POSTGRESQL / PRISMA ORM / TAILWIND CSS / HTML5 / CSS3 / GIT / GITHUB / POSTMAN
+---
 
-- 🔭 I’m currently working on Building modern full stack web applications. 
-- 🌱 I’m currently learning Next.js, Prisma ORM, PostgreSQL, TypeScript, and System Design. 
-- 👯 I’m looking to collaborate on Open Source Projects, Full Stack Web Applications, and Innovative Web Solutions. 
-- 🤔 I’m looking for help with Backend Architecture, Performance Optimization, and Best Development Practices. 
-- 💬 Ask me about React, JavaScript, Next.js, Node.js, Web Development, or anything related to Full Stack Development. 
-- 📫 How to reach me: afsanajannat205@gmail.com 
-- ⚡ Fun fact: I believe every project is an opportunity to learn something new. 
+## 💫 About Me
 
+- 💻 Full Stack Developer from Bangladesh
+- 🌱 Currently learning **Next.js, Prisma ORM, PostgreSQL & TypeScript**
+- 🚀 Passionate about building responsive and scalable web applications
+- 🤝 Looking to collaborate on **Open Source & Full Stack Projects**
+- 💬 Ask me about **React, Next.js, JavaScript, Node.js, Express.js & MongoDB**
+- 💼 Open to **Full Stack Developer Opportunities**
+- 📫 Reach me at **YOUR_EMAIL**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Afsana-Jannat)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/afsana-jannat-8484343b6//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://afsanajannat-portfolio.netlify.app/)  
+---
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+## 🛠 Languages & Technologies
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,mongodb,postgresql,prisma,firebase,git,github,postman,vscode&perline=8"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🚴 GearUp
+A full stack sports & outdoor gear rental platform featuring secure authentication, role-based dashboards, booking management, and online payment integration.
+
+### 📦 GoDeliver
+A parcel delivery management system with parcel tracking, rider management, OTP verification, and secure payment features.
+
+### 💊 MedCareHub
+A responsive medicine ordering platform with authentication, shopping cart, and online payment integration.
+
+### 🌐 Personal Portfolio
+A modern developer portfolio showcasing my projects, technical skills, and development journey.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Afsana-Jannat&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afsana-Jannat&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+✨ Always Learning • Always Building • Always Growing ✨
+
+</p>
 
