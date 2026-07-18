@@ -1,28 +1,28 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Q7d5Fjzf/githubbanner.png" width="100%" alt="Afsana Jannat Banner"/>
+  <img src="https://i.ibb.co.com/Q7d5Fjzf/githubbanner.png" alt="Afsana Jannat Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Afsana Jannat</h1>
 
 <h3 align="center">
-Full Stack Developer • Passionate About Building Modern Web Applications
+Full Stack Developer
 </h3>
 
 <p align="center">
-I enjoy turning ideas into clean, scalable, and user-friendly web applications while continuously learning modern technologies.
+Passionate about building modern, scalable, and user-friendly web applications.
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6">
+<img src="https://skillicons.dev/icons?i=linkedin" width="42"/>
 </a>
 &nbsp;&nbsp;
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+<a href="afsanajannat205@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="42"/>
 </a>
 &nbsp;&nbsp;
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel" height="45"/>
+<a href="https://afsanajannat-portfolio.netlify.app/">
+<img src="https://skillicons.dev/icons?i=vercel" width="42"/>
 </a>
 </p>
 
@@ -33,86 +33,124 @@ I enjoy turning ideas into clean, scalable, and user-friendly web applications w
 - 💻 Full Stack Developer from **Bangladesh**
 - 🌱 Currently learning **Next.js, Prisma ORM, PostgreSQL & TypeScript**
 - 🚀 Passionate about building clean, scalable, and responsive web applications
-- 🤝 Looking to collaborate on **Open Source & Full Stack Projects**
-- 💬 Ask me about **React, Next.js, JavaScript, Node.js, Express.js, MongoDB & PostgreSQL**
-- 💼 Open to **Full Stack Developer Opportunities**
+- 🤝 Interested in collaborating on open source and full stack projects
+- 💼 Open to Full Stack Developer opportunities
+- 💬 Ask me about **React, JavaScript, Next.js, Node.js, Express.js, MongoDB & PostgreSQL**
 - 📫 Reach me at **YOUR_EMAIL**
 
 ---
 
 # 💻 Technology Stack
 
-<p align="left">
+### 🎨 Frontend
 
+<p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
+### ⚙️ Backend
+
+<p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
+### 🗄️ Database & ORM
+
+<p>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+### 🔐 Authentication
 
+<p>
+<img src="https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
+
+### 🚀 Deployment & Hosting
+
+<p>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+</p>
+
+### 🛠️ Tools & Technologies
+
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+</p>
 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+### 📚 Currently Learning
 
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Design-0A66C2?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🚴 GearUp
-A full stack sports & outdoor gear rental platform with secure authentication, booking management, role-based dashboards, and online payment integration.
+## 🚴 GearUp
+
+Sports & Outdoor Gear Rental Platform
 
 **Tech Stack:** React • Node.js • Express.js • PostgreSQL • Prisma ORM
 
+🔗 **Live Demo** | **Client Repository** | **Server Repository**
+
 ---
 
-### 📦 GoDeliver
-A parcel delivery management system with OTP verification, parcel tracking, rider management, and secure payment integration.
+## 📦 GoDeliver
+
+Parcel Delivery Management System
 
 **Tech Stack:** React • Node.js • Express.js • MongoDB
 
+🔗 **Live Demo** | **Client Repository** | **Server Repository**
+
 ---
 
-### 💊 MedCareHub
-A responsive medicine ordering platform featuring authentication, shopping cart, Stripe payment, and a clean user experience.
+## 💊 MedCareHub
+
+Online Medicine Ordering Platform
 
 **Tech Stack:** React • Firebase • Express.js • MongoDB
 
+🔗 **Live Demo** | **Repository**
+
 ---
 
-### 🌐 Personal Portfolio
-A modern portfolio showcasing my projects, technical skills, and development journey.
+## 🌐 Personal Portfolio
+
+Modern Developer Portfolio
 
 **Tech Stack:** React • Tailwind CSS • Framer Motion
 
+🔗 **Live Demo** | **Repository**
+
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -134,20 +172,14 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 <p align="left">
 
-<a href="YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/afsana-jannat-8484343b6">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;&nbsp;
+&nbsp;
 
-<a href="mailto:YOUR_EMAIL">
+<a href="afsanajannat205@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
 </p>
@@ -156,8 +188,8 @@ A modern portfolio showcasing my projects, technical skills, and development jou
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile! ❤️
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Keep Learning. Keep Building. Keep Growing."*
 
 </div>
