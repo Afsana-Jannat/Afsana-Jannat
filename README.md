@@ -1,6 +1,6 @@
 
 
-![MasterHead](C:\Users\MSI\Downloads\banner.png.png)
+![MasterHead](https://raw.githubusercontent.com/Afsana-Jannat/Afsana-Jannat/main/banner.png)
 
 # I'm Afsana Jannat
 
