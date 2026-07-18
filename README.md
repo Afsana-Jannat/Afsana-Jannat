@@ -176,8 +176,6 @@ Modern Developer Portfolio
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-&nbsp;
-
 <a href="afsanajannat205@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
