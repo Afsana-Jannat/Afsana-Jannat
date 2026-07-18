@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://raw.githubusercontent.com/Afsana-Jannat/Afsana-Jannat/main/banner.png)
+![MasterHead](https://chatgpt.com/backend-api/estuary/content?id=file_00000000914c81faab3dcfc776bc1b19&ts=495660&p=fs&cid=1&sig=efff2a8ffa882b5762650ff27c9aa4a409624154cb81481a9a616d21e804f4c3&v=0)
 
 # I'm Afsana Jannat
 
