@@ -1,6 +1,6 @@
 
 
-![MasterHead](https://www.creativeitinstitute.com/images/course/course_1663052056.jpg)
+![MasterHead](C:\Users\MSI\Downloads\banner.png.png)
 
 # I'm Afsana Jannat
 
