@@ -37,7 +37,7 @@ Email
 - 🤝 Looking to collaborate on **Open Source & Full Stack Projects**
 - 💬 Ask me about **React, JavaScript, Next.js, Node.js, Express.js, MongoDB & PostgreSQL**
 - 📍 Location: **Dhaka, Bangladesh**
-- 📫 Email: **YOUR_EMAIL**
+- 📫 Email: afsanajannat205@gmail.com
 - 💼 Open to **Full Stack Developer Opportunities**
 
 ---
